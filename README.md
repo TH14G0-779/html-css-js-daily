@@ -1,7 +1,7 @@
 # HTML-CSS-JS-daily
 Repositório para registrar meu aprendizado diário em HTML, CSS e JavaScript
 
-# 📚 Diário de Estudos — HTML, CSS e JavaScript
+## 📚 Diário de Estudos — HTML, CSS e JavaScript
 
 Este repositório contém meu progresso diário aprendendo desenvolvimento web.
 
