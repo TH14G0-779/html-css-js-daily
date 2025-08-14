@@ -10,5 +10,8 @@ Este repositório contém meu progresso diário aprendendo desenvolvimento web.
 - [Dia 02](dia-02/): Listas, links e imagens
 - [Dia 03](dia-03/): Reforço dos dias 1 e 2
 
+![Progresso](https://img.shields.io/badge/dias%20conclu%C3%ADdos-3-blue)
+![Linguagens](https://img.shields.io/badge/HTML-CSS-JavaScript-orange)
+
 > Logo mais atualizações.
 
