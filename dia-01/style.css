@@ -1,0 +1,26 @@
+body { 
+    background-color: aliceblue;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    padding: 20px;
+
+}
+
+h1 {
+    color: blueviolet;
+
+}
+
+button {
+    background-color: blueviolet;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #9400d3;
+}
+
